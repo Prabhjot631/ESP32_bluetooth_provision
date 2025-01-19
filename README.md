@@ -13,4 +13,5 @@ THINGS NEEDED:
 STEP 1:
 Install esp idf on your computer using this link: https://dl.espressif.com/dl/esp-idf/?idf=4.4 wait for it to install. When it is installed open esp idf powershell
 it will show you the version of the idf installed. 
+after powerdhell is opened and it is showing version of idf installed than type this command - 
 
